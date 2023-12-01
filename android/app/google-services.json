@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "742227262489",
+    "project_id": "admintarea-ee42e",
+    "storage_bucket": "admintarea-ee42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742227262489:android:247fc09c992dc48c04fe88",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+          
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYFjQib2CmDvPZ_OtZWUf_ps-vIDZ5K6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
